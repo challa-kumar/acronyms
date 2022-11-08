@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Acronyms</string>
+    <string name="enter_acronym">Enter acronym</string>
+    <string name="search">Search</string>
+    <string name="full_form">Full form</string>
+    <string name="since">Since</string>
+    <string name="frequency">frequency</string>
+</resources>
